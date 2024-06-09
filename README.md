@@ -13,6 +13,6 @@ Atualmente sou um estudante de ADS procurando<br>por uma oportunidade de estági
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLee3&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BrunoLee3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=BrunoLee3&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
